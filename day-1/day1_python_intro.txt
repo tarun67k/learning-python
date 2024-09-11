@@ -26,3 +26,21 @@
      - **VS Code**: A light and easy editor with Python support.
      - **IDLE**: Python’s built-in editor, great for beginners.
      - **Jupyter**: Used a lot in data science because it’s interactive.
+
+7. **Which IDE is good for you?**
+   - **VS Code** is a good choice for most people. It’s lightweight, easy to use, and has lots of extensions for Python. It’s great for beginners and pros.
+   - If you're doing bigger projects or want more features, **PyCharm** is excellent.
+
+8. **How is Python execution done?**
+   - Python code is run by the **Python interpreter**, which reads your code line by line and executes it. You can write code in a `.py` file and run it using the terminal (`python file_name.py`), or directly in an IDE.
+
+9. **What type of language is Python?**
+   - Python is a **high-level**, **interpreted**, and **object-oriented** language. It’s easy to read and write, and it doesn’t need to be compiled (like C or Java).
+
+10. **Applications of Python**:
+   - **Web development** (Django, Flask)
+   - **Data science** and **machine learning** (Pandas, Scikit-learn)
+   - **Automation** (scripting tasks)
+   - **App development**
+   - **Game development** (Pygame)
+   - **Networking** and **cloud computing**.
