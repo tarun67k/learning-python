@@ -11,9 +11,9 @@ print("Length of my_string:", len(my_string))
 ```
 
 # 3. type() - Returns the type of an object
-'''python
+```python
 print("Type of my_string:", type(my_string))
-'''
+```
 # 4. int() - Converts a value to an integer
 number = "10"
 print("String to integer:", int(number))
