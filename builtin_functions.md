@@ -4,12 +4,16 @@
 print("Hello, World!")
 
 # 2. len() - Returns the length of an object (string, list, etc.)
+
+```python
 my_string = "Python"
 print("Length of my_string:", len(my_string))
+```
 
 # 3. type() - Returns the type of an object
+'''python
 print("Type of my_string:", type(my_string))
-
+'''
 # 4. int() - Converts a value to an integer
 number = "10"
 print("String to integer:", int(number))
