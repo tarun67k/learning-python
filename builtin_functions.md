@@ -1,4 +1,4 @@
-# Python Built-in Functions Examples
+# Python Built-in Functions Examples.
 
 # 1. print() - Prints the given object(s) to the console
 print("Hello, World!")
