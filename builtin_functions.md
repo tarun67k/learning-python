@@ -1,7 +1,9 @@
 ## Python Built-in Functions Examples.
 
 ## 1. print() - Prints the given object(s) to the console
+```python
 print("Hello, World!")
+```
 
 ## 2. len() - Returns the length of an object (string, list, etc.)
 
@@ -15,65 +17,100 @@ print("Length of my_string:", len(my_string))
 print("Type of my_string:", type(my_string))
 ```
 ## 4. int() - Converts a value to an integer
+```python
 number = "10"
 print("String to integer:", int(number))
+```
 
 ## 5. float() - Converts a value to a float (decimal)
+```python
 print("Integer to float:", float(number))
+```
 
 ## 6. str() - Converts a value to a string
+```python
 print("Float to string:", str(10.5))
+```
 
 ## 7. max() - Returns the largest item in an iterable or two+ arguments
+```python
 numbers = [1, 5, 3, 9, 2]
 print("Maximum number in list:", max(numbers))
+```
 
 ## 8. min() - Returns the smallest item in an iterable or two+ arguments
+```python
 print("Minimum number in list:", min(numbers))
+```
 
 ## 9. sum() - Returns the sum of all items in an iterable
+```python
 print("Sum of numbers in list:", sum(numbers))
+```
 
 ## 10. abs() - Returns the absolute value of a number
+```python
 print("Absolute value of -10:", abs(-10))
+```
 
 ## 11. round() - Rounds a number to the nearest integer or specified number of decimals
+```python
 print("Rounded 5.678 to 2 decimals:", round(5.678, 2))
+```
 
 ## 12. sorted() - Returns a sorted list of items from an iterable
+```python
 print("Sorted numbers:", sorted(numbers))
-
+```
 ## 13. input() - Accepts user input as a string
 ## Uncomment below lines to take input from user
-## name = input("Enter your name: ")
-## print("Hello", name)
+```python
+name = input("Enter your name: ")
+print("Hello", name)
+```
 
 ## 14. isinstance() - Checks if an object is an instance of a specific type/class
+```python
 print("Is 5 an instance of int?", isinstance(5, int))
+```
 
 ## 15. all() - Returns True if all elements of an iterable are true
+```python
 print("All elements in [1, True, 'Python'] are true:", all([1, True, 'Python']))
+```
 
 ## 16. any() - Returns True if any element of an iterable is true
+```python
 print("Any element in [0, False, ''] is true:", any([0, False, '']))
+```
 
 ## 17. range() - Generates a sequence of numbers
+```python
 print("Numbers from 0 to 4:", list(range(5)))
+```
 
 ## 18. zip() - Combines multiple iterables element-wise into tuples
+```python
 names = ["Alice", "Bob", "Charlie"]
 scores = [85, 92, 78]
 print("Zipped names and scores:", list(zip(names, scores)))
+```
 
 ## 19. map() - Applies a function to all items in an iterable
+```python
 print("Squares of numbers:", list(map(lambda x: x**2, numbers)))
+```
 
 ## 20. filter() - Filters items from an iterable based on a condition
+```python
 print("Numbers greater than 5:", list(filter(lambda x: x > 5, numbers)))
+```
 
 ## 21. eval() - Evaluates and executes an expression from a string
+```python
 expression = "3 + 4"
 print("Result of eval(expression):", eval(expression))
+```
 
 ## 22. help() - Displays the documentation for an object or function
 ## Uncomment to see help for a function
