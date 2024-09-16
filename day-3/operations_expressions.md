@@ -1,4 +1,4 @@
-* operators and expressions
+operators and expressions
 
 **Arithmetic operators** are used to perform mathematical operations between values. In Python, the most common arithmetic operators are:
 
