@@ -6,7 +6,7 @@ print(a*b)
 print(a/b)
 print(a//b)
 
-user = int(input())
+user = int(input("Eneter a number - "))
 print(user>10)
 
 print(a%b)
