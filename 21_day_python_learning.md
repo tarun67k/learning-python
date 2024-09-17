@@ -1,4 +1,4 @@
-# 30-Day Python Learning Schedule for Freshers
+# 21-Day Python Learning Schedule for Freshers
 
 ## Level: Python Basics and Foundations
 
