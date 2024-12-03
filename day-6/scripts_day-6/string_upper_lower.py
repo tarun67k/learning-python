@@ -1,0 +1,5 @@
+string = input("Enter a string - ")
+upper_string = string.upper()
+lower_string = string.lower()
+print(upper_string)
+print(lower_string)
